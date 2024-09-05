@@ -82,3 +82,20 @@ Her türlü katkı, öneri ve geri bildirimleriniz için lütfen bir [issue](htt
 ## 📜 Lisans
 
 Bu proje **GPL Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın. 📄
+
+## 📷 Bot Görselleri
+![1](https://github.com/user-attachments/assets/11a5f8f1-2b9f-45e6-b09d-8e4a9a827f6a)
+
+![2](https://github.com/user-attachments/assets/d0f1fc2a-d888-4c49-b1c0-358dc9705e80)
+
+![3](https://github.com/user-attachments/assets/d665c331-1c3e-46d3-b3c6-100df4ccf4bb)
+
+![4](https://github.com/user-attachments/assets/4ac6475e-e970-4f74-b46d-414a81891732)
+
+![5](https://github.com/user-attachments/assets/325045b5-706e-4011-a35c-861bf936600a)
+
+![6](https://github.com/user-attachments/assets/d4d9d31d-b483-4952-8836-643f24db9e94)
+
+
+
+
