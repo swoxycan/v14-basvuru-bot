@@ -83,6 +83,10 @@ Her türlü katkı, öneri ve geri bildirimleriniz için lütfen bir [issue](htt
 
 Bu proje **GPL Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın. 📄
 
+## Not
+
+Botta bir tane hata bırakılmışdır full sinek developerim diyenlere selamlar!
+
 ## 📷 Bot Görselleri
 ![1](https://github.com/user-attachments/assets/11a5f8f1-2b9f-45e6-b09d-8e4a9a827f6a)
 
